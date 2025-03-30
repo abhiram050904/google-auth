@@ -20,7 +20,7 @@ const Login = () => {
             }
         }
         catch(err){
-            console.log('error while requesting goggle code:',err)
+            console.log('error while requesting goggle codezzz:',err)
         }
     }
     const goggleLogin=useGoogleLogin({
